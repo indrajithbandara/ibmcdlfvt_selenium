@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+wplcqe.03\webrftui\Common\SupportFiles\Applications\AutoIt\Tools\FeedReader
+2
+9
+a:Readme.txt|1|131cb639792|e6|492351b3|1b239bbf0e8544fab443427f96b680fa|0
+9:Setup.exe|1|131cb639be7|33397|bc2436f8|9cc7baacca684d8581d79d2fd0b1ca77|0
+e:FeedReader.au3|1|131cb639204|10d0|de241380|4a2ca0308f734dc48008f97741a12e72|0
+e:FeedReader.exe|1|131cb639734|31a4f|8e45106f|2f3aaef155cf4bd8ab75e43cdab8bf82|0
+e:ClearFeeds.au3|1|131cb638b0f|5a6|4193b07c|7a571955bf034a8c98709d2dd3f6e49e|0
+e:ClearFeeds.exe|1|131cb639197|314b7|3b643c24|cc0e149e609d4b34a7c7da023482125c|0
+12:Run Feedreader.bat|1|131cb639782|ef|69994bc4|b3270f754efe4e54af0fa04abefc4f1d|0
+9:Setup.au3|1|131cb639ca3|808|3ae96b84|2b728539936a4dafba942e7c9e7ef73c|0
+e:ClearFeeds.bat|1|131cb638b1e|39|47901450|5e3ae363bd134387ab6de1b6d14e494b|0

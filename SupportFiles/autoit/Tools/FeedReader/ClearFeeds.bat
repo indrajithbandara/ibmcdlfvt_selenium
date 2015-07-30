@@ -1,0 +1,1 @@
+ClearFeeds "C:\Program Files\FeedReader30\feedreader.exe"

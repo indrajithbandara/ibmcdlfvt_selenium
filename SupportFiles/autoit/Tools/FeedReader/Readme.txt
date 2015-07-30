@@ -1,0 +1,1 @@
+Standalone exe files that perform certain functions.  See corresponding au3 file for actual code.  Exe is made by compiling the au3 file.  Batch file can be use for demonstrating how to run exe with sample parameters to pass it.

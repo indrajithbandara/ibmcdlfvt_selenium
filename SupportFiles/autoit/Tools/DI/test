@@ -1,0 +1,11 @@
+#include "Constants.au3"
+#include <A3LListView.au3>
+#include <A3LMenu.au3>
+
+Opt("WinTitleMatchMode",2)
+Opt("MustDeclareVars",1)	
+Dim $handle = WinGetHandle($addToPlace) ;
+	Dim $listView = ControlGetHandle($addToPlace,"","SysListView321")
+	Dim $folderIndex=ControlListView($addToPlace,"","SysListView321","FindItem","GUAT Test",0)
+	MsgBox(0,"hi", $folderIndex)
+	_ListView_ClickItem($listView,$folderIndex,"Left",True)

@@ -1,0 +1,13 @@
+
+<td dojoattachpoint="containerNode" colspan="2" class="dijitReset dijitMenuItemLabel" id="dijit_MenuItem_6_text">Folder</td>
+
+
+html.dj_gecko body.lotusui table#dijit_Menu_2.dijit tbody.dijitReset tr#dijit_MenuItem_6.dijitReset td#dijit_MenuItem_6_text.dijitReset
+
+Folder
+
+//*[@id="dijit_MenuItem_6_text"]
+/html/body/div/table/tbody/tr/td/div/table/tbody/tr/td/div[3]/table/tbody/tr/td/div/div/iframe/html/body/form/input
+
+
+/html/body/div/table/tbody/tr/td/div/table/tbody/tr/td/div[3]/table/tbody/tr[2]/td/a/span
