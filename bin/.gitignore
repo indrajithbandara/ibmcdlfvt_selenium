@@ -1,8 +1,5 @@
-/tasks/
-/testcases/
-/util/
-/appobjects/
 /config/
 /exceptions/
 /junit/
 /log/
+/tasks/
