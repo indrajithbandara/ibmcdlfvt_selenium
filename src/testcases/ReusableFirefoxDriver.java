@@ -73,11 +73,11 @@ public class ReusableFirefoxDriver extends FirefoxDriver {
 					}
 				}
 
-				@Override
-				public void setLocalLogs(LocalLogs arg0) {
-					// TODO Auto-generated method stub
-					
-				}
+//				@Override
+//				public void setLocalLogs(LocalLogs arg0) {
+//					// TODO Auto-generated method stub
+//					
+//				}
 
 //				@Override
 //				public void setLocalLogs( LocalLogs logs ) {
