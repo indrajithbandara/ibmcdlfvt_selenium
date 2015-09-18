@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+
+<suite name="My suite">
+
+  <test name="Simple example">
+
+    <groups>
+      <run>
+		<include name="tests.string" />
+		<include name="tests.math" />
+		<include name="tests.workflow"/>
+      </run>
+    </groups>
+    <classes>
+	        <class name="tests.StringUtilsTest" />
+	        <class name="tests.NumberUtilsTest" />
+	        <class name="tests.FractionTest" />
+	        <class name="tests.Workflow" />
+    </classes>
+
+  </test>
+
+</suite>

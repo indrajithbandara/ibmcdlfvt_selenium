@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/libs"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jarlibs"/>
+	<classpathentry kind="lib" path="C:/eclipworkspace/ibmcdlautomation/commons-lang-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipworkspace/ibmcdlautomation/testng-2.0beta-jdk15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
